@@ -11,7 +11,7 @@ MÓDULO 4: Anatomía de un sitio web
 
 [MercadoLiebre 5 - Formularios](https://github.com/EveNavarro/mercadoLiebre5-Formularios)
 
-[MercadoLiebre 6 - Organizando Elementos](https://github.com/EveNavarro/mercadoLiebre5-Formularios)
+[MercadoLiebre 6 - Organizando Elementos](https://github.com/EveNavarro/mercadoLiebre6-OrgYAnim)
 
 
 ## Preview del desafío finalizado
